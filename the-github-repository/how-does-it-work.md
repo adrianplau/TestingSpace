@@ -4,5 +4,5 @@ This GitBook synchs, or 'integrates', with a GitHub repository - found [here](ht
 
 Strangely, it does seem that the integration into GitHub is not always automatic and that somebody has to go to the GitHub repo's [branches](https://github.com/adrianplau/TestingSpace/branches) and manually pull edits from GitBook. This seems odd to me, so I will look a bit further into it.
 
-
+I have now attempted renaming the default branch in the GitHub repository, does that change anything?
 
