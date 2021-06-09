@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Front Page for our Learning Space!](README.md)
 
