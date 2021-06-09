@@ -10,3 +10,7 @@
 
 * [How does it work?](the-github-repository/how-does-it-work.md)
 
+## Initial thoughts
+
+* [After 9 June session](initial-thoughts/after-9-june-session.md)
+
