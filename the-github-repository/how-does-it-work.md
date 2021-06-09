@@ -9,3 +9,5 @@ I have now attempted renaming the default branch in the GitHub repository, does 
 It did indeed work, and the last integration from GitBook now happened without any issue. I'm now typing this line into the GitHub repository, let us see if it works the other way too?
 
 TH: No write access so editing via proposed changes in GitHub repository. This should create a new branch hardytoni/TestingSpace so I can then send a pull request. Let's see if this works as expected and whether it ends up in GitBook.  
+
+AP: Update to say that this works!
